@@ -1,0 +1,486 @@
+{
+    "personas": [
+        {
+            "id": "1481",
+            "nombre": "Sofía",
+            "apellidos": "Ramírez",
+            "email": "maría.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "8542",
+            "nombre": "María",
+            "apellidos": "Martínez",
+            "email": "elena.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "9965"
+        },
+        {
+            "id": "3745",
+            "nombre": "Pedro",
+            "apellidos": "Martínez",
+            "email": "ana.torres@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "5662",
+            "nombre": "María",
+            "apellidos": "López",
+            "email": "carlos.ramírez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "1666",
+            "nombre": "Sofía",
+            "apellidos": "López",
+            "email": "luis.ramírez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "7074",
+            "nombre": "Ana",
+            "apellidos": "López",
+            "email": "carlos.sánchez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "9965"
+        },
+        {
+            "id": "2422",
+            "nombre": "Pedro",
+            "apellidos": "Flores",
+            "email": "lucía.torres@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "6918",
+            "nombre": "Miguel",
+            "apellidos": "Flores",
+            "email": "juan.pérez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "6455",
+            "nombre": "Elena",
+            "apellidos": "Sánchez",
+            "email": "pedro.flores@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "7982",
+            "nombre": "Ana",
+            "apellidos": "González",
+            "email": "sofía.ramírez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "4457",
+            "nombre": "Luis",
+            "apellidos": "Sánchez",
+            "email": "luis.ramírez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "7820",
+            "nombre": "Pedro",
+            "apellidos": "González",
+            "email": "juan.pérez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "7991",
+            "nombre": "Lucía",
+            "apellidos": "García",
+            "email": "ana.rodríguez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "8511",
+            "nombre": "Juan",
+            "apellidos": "Ramírez",
+            "email": "maría.flores@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "5591",
+            "nombre": "Juan",
+            "apellidos": "Martínez",
+            "email": "elena.torres@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "9784",
+            "nombre": "Juan",
+            "apellidos": "García",
+            "email": "sofía.torres@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "7291",
+            "nombre": "Elena",
+            "apellidos": "Pérez",
+            "email": "lucía.sánchez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "8477",
+            "nombre": "Elena",
+            "apellidos": "Rodríguez",
+            "email": "juan.rodríguez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "4291",
+            "nombre": "Luis",
+            "apellidos": "García",
+            "email": "sofía.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "9965"
+        },
+        {
+            "id": "4877",
+            "nombre": "Pedro",
+            "apellidos": "López",
+            "email": "sofía.garcía@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "1994",
+            "nombre": "María",
+            "apellidos": "González",
+            "email": "ana.sánchez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "9965"
+        },
+        {
+            "id": "4992",
+            "nombre": "Luis",
+            "apellidos": "Flores",
+            "email": "juan.lópez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "9965"
+        },
+        {
+            "id": "3347",
+            "nombre": "Lucía",
+            "apellidos": "Torres",
+            "email": "sofía.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "6832",
+            "nombre": "Sofía",
+            "apellidos": "López",
+            "email": "juan.sánchez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "1739",
+            "nombre": "Elena",
+            "apellidos": "Martínez",
+            "email": "elena.martínez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "1431",
+            "nombre": "Sofía",
+            "apellidos": "Torres",
+            "email": "miguel.ramírez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "4338",
+            "nombre": "Juan",
+            "apellidos": "Pérez",
+            "email": "miguel.garcía@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "2483",
+            "nombre": "Miguel",
+            "apellidos": "García",
+            "email": "maría.ramírez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "3275",
+            "nombre": "Elena",
+            "apellidos": "Sánchez",
+            "email": "elena.garcía@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "3138",
+            "nombre": "Ana",
+            "apellidos": "Martínez",
+            "email": "elena.flores@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "5070",
+            "nombre": "Carlos",
+            "apellidos": "Torres",
+            "email": "ana.pérez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "1442",
+            "nombre": "Lucía",
+            "apellidos": "Rodríguez",
+            "email": "juan.rodríguez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "4196",
+            "nombre": "Pedro",
+            "apellidos": "Pérez",
+            "email": "luis.flores@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "2971",
+            "nombre": "María",
+            "apellidos": "García",
+            "email": "carlos.lópez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "2219",
+            "nombre": "Ana",
+            "apellidos": "Flores",
+            "email": "lucía.gonzález@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "9730",
+            "nombre": "Juan",
+            "apellidos": "García",
+            "email": "lucía.gonzález@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "5642",
+            "nombre": "María",
+            "apellidos": "López",
+            "email": "ana.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "6286",
+            "nombre": "Carlos",
+            "apellidos": "Ramírez",
+            "email": "maría.torres@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "2519",
+            "nombre": "Juan",
+            "apellidos": "García",
+            "email": "lucía.lópez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "5587",
+            "nombre": "Sofía",
+            "apellidos": "García",
+            "email": "maría.rodríguez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "9965"
+        },
+        {
+            "id": "9437",
+            "nombre": "Juan",
+            "apellidos": "Sánchez",
+            "email": "pedro.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "1728",
+            "nombre": "Juan",
+            "apellidos": "Torres",
+            "email": "sofía.martínez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "5431",
+            "nombre": "Ana",
+            "apellidos": "Flores",
+            "email": "maría.pérez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "2966",
+            "nombre": "Carlos",
+            "apellidos": "González",
+            "email": "ana.torres@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "2761",
+            "nombre": "Ana",
+            "apellidos": "Flores",
+            "email": "lucía.ramírez@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8805"
+        },
+        {
+            "id": "1641",
+            "nombre": "Carlos",
+            "apellidos": "González",
+            "email": "miguel.sánchez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "2359"
+        },
+        {
+            "id": "5495",
+            "nombre": "Miguel",
+            "apellidos": "Torres",
+            "email": "elena.torres@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "9278",
+            "nombre": "Elena",
+            "apellidos": "Torres",
+            "email": "elena.torres@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8135"
+        },
+        {
+            "id": "4259",
+            "nombre": "Elena",
+            "apellidos": "Ramírez",
+            "email": "luis.rodríguez@ejemplo.com",
+            "genero": "femenino",
+            "grupoID": "8225"
+        },
+        {
+            "id": "4941",
+            "nombre": "Juan",
+            "apellidos": "Martínez",
+            "email": "juan.garcía@ejemplo.com",
+            "genero": "masculino",
+            "grupoID": "8805"
+        }
+    ],
+    "grupos": [
+        {
+            "id": "8805",
+            "nombre": "Desarrollo",
+            "personas": [
+                "1666",
+                "7991",
+                "7291",
+                "4338",
+                "2219",
+                "6286",
+                "2966",
+                "2761",
+                "4941"
+            ]
+        },
+        {
+            "id": "9965",
+            "nombre": "Marketing",
+            "personas": [
+                "8542",
+                "7074",
+                "4291",
+                "1994",
+                "4992",
+                "5587"
+            ]
+        },
+        {
+            "id": "2359",
+            "nombre": "Finanzas",
+            "personas": [
+                "1481",
+                "7982",
+                "4457",
+                "8477",
+                "4877",
+                "6832",
+                "1431",
+                "2483",
+                "3275",
+                "5070",
+                "2971",
+                "2519",
+                "9437",
+                "5431",
+                "1641"
+            ]
+        },
+        {
+            "id": "8135",
+            "nombre": "Recursos Humanos",
+            "personas": [
+                "5662",
+                "8511",
+                "3347",
+                "1739",
+                "1442",
+                "4196",
+                "9730",
+                "1728",
+                "5495",
+                "9278"
+            ]
+        },
+        {
+            "id": "8225",
+            "nombre": "Operaciones",
+            "personas": [
+                "3745",
+                "2422",
+                "6918",
+                "6455",
+                "7820",
+                "5591",
+                "9784",
+                "3138",
+                "5642",
+                "4259"
+            ]
+        }
+    ]
+}
